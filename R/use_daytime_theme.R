@@ -7,6 +7,6 @@
 use_daytime_theme <- function(){
 
   # Set default theme
-  rstudioapi::applyTheme("Solarized Light")
+  rstudioapi::applyTheme("Abdal Black Hackers")
 
 }
