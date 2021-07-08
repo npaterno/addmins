@@ -7,6 +7,6 @@
 use_nighttime_theme <- function(){
 
   # Set default theme
-  rstudioapi::applyTheme("Solarized Dark")
+  rstudioapi::applyTheme("Material")
 
 }
