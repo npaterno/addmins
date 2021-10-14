@@ -7,6 +7,6 @@
 use_daytime_theme <- function(){
 
   # Set default theme
-  rstudioapi::applyTheme("CodeRunner")
-
+  rstudioapi::applyTheme("Solarized Light")
+  rstudioapi::writeRStudioPreference("font_size_points", 12L)
 }
