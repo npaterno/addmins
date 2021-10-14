@@ -11,5 +11,5 @@ use_teach_mode <- function(){
 
   # Set default theme
   rstudioapi::applyTheme("Textmate (default)")
-
+  rstudioapi::writeRStudioPreference("font_size_points", 18L)
 }
