@@ -8,5 +8,5 @@ use_daytime_theme <- function(){
 
   # Set default theme
   rstudioapi::applyTheme("Solarized Light")
-  rstudioapi::writeRStudioPreference("font_size_points", 12L)
+  rstudioapi::writeRStudioPreference("font_size_points", 12)
 }
