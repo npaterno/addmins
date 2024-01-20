@@ -7,7 +7,7 @@
 use_nighttime_theme <- function(){
 
   # Set default theme
-  rstudioapi::applyTheme("Material")
+  rstudioapi::applyTheme("Pastel On Dark")
   rstudioapi::writeRStudioPreference("font_size_points", 12L)
 
 }
